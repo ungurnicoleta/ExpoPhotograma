@@ -24,7 +24,7 @@
     "@tensorflow-models/mobilenet": "^2.0.4",
     "@tensorflow/tfjs": "^1.7.4",
     "@tensorflow/tfjs-react-native": "^0.2.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "base-64": "latest",
     "expo": "~36.0.0",
     "expo-asset": "~8.0.0",
